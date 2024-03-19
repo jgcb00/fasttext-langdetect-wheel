@@ -1,4 +1,4 @@
-# fasttext-langdetect
+# fasttext-langdetect-wheel
 This library is a wrapper for the language detection model trained on fasttext by Facebook. For more information, please visit: https://fasttext.cc/docs/en/language-identification.html
 
 
@@ -9,7 +9,7 @@ af als am an ar arz as ast av az azb ba bar bcl be bg bh bn bo bpy br bs bxr ca 
 
 ## Install
 ```
-pip install fasttext-langdetect
+pip install fasttext-langdetect-wheel
 ```
 
 ## Usage
