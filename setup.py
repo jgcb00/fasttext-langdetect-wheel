@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-setup(name='fasttext-langdetect',
+setup(name='fasttext-langdetect-wheel',
       version='1.0.5',
       description='80x faster and 95% accurate language identification with Fasttext',
       keywords=['fasttext', 'langdetect', 'language detection',
@@ -30,4 +30,6 @@ setup(name='fasttext-langdetect',
           'Programming Language :: Python :: 3.7',
           'Programming Language :: Python :: 3.8',
           'Programming Language :: Python :: 3.9',
+          'Programming Language :: Python :: 3.10',
+          'Programming Language :: Python :: 3.11',
       ])
